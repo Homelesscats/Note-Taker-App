@@ -28,6 +28,10 @@ No need to install as we have deployed the application using Heroku : LINK
 
 Create, delete and save notes using the Noote Taker App. User will click get started to access a new note. When a note has been posted it will render to the left of the screen, visible when creating new notes. 
 (NOTE: delete fucntion is extra credit in this assignment)  
+## Video 
+
+
+[module-11.webm](https://github.com/Homelesscats/Note-Taker-App/assets/126728979/7d677154-1a8e-4952-8539-08cee2f2c12f)
 
 ## Resources Used
 
@@ -39,3 +43,4 @@ Create, delete and save notes using the Noote Taker App. User will click get sta
 </ol>
 
 ## Deployed Application
+https://github.com/Homelesscats/Note-Taker-App
